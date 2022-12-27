@@ -1,0 +1,8 @@
+**/[Bb]in
+**/.project
+**/.settings
+**/.classpath
+**/target/**
+game-expert-dao/src/main/resources/application-dev.properties
+game-expert-dao/src/main/resources/application-stg.properties
+/.metadata/
